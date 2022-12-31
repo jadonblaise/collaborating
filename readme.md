@@ -6,11 +6,11 @@ Age: 27 years old
 
 Education: DCI
 
-Profession: ELectronics Engineer
+Profession: Electronics Engineer
 
 Experience: Intermediate 
 
-Recipes
+Favorite Recipes:
 
 Chicken & Fries
 
@@ -19,5 +19,3 @@ Salads
 Pastas
 
 Doner Teller
-
-About me
