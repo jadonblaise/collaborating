@@ -1,4 +1,4 @@
-             Biography
+             **Biography**
 
 Name: Blaise Uwaforo
 
@@ -10,7 +10,7 @@ Profession: Electronics Engineer
 
 Experience: Intermediate 
 
-             Favorite Recipes:
+            ** Favorite Recipes:**
 
 Chicken & Fries
 
